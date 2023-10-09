@@ -1,0 +1,6 @@
+﻿  Source.cpp
+G:\F\UOP 300 LEVEL\Sem 2\CS\CS308\OpenGL2DWheel\OpenGL2DWheel\Source.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+G:\F\UOP 300 LEVEL\Sem 2\CS\CS308\OpenGL2DWheel\OpenGL2DWheel\Source.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+G:\F\UOP 300 LEVEL\Sem 2\CS\CS308\OpenGL2DWheel\OpenGL2DWheel\Source.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+G:\F\UOP 300 LEVEL\Sem 2\CS\CS308\OpenGL2DWheel\OpenGL2DWheel\Source.cpp(66,36): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  OpenGL2DWheel.vcxproj -> G:\F\UOP 300 LEVEL\Sem 2\CS\CS308\OpenGL2DWheel\Debug\OpenGL2DWheel.exe
