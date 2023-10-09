@@ -1,6 +1,6 @@
-#include <Windows.h>;
-#include <glut.h>;
-#include <math.h>;
+#include <Windows.h>
+#include <glut.h>
+#include <math.h>
 
 void init() {
     glClearColor(0.68, 0.85, 0.9, 1.0); // Set clear color to white
